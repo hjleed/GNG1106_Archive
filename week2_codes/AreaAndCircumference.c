@@ -1,4 +1,5 @@
-// To calculate Area and Circumference of a circle
+// To calculate the Area and Circumference of a circle
+// Example in GNG1106 class
 
 #include<stdio.h>
 int main()
