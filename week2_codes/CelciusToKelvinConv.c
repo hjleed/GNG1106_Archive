@@ -1,4 +1,4 @@
-/* Write a program in C to convert Celsius to Kelvin. Ask the user to enter the desired temperature in Celsius, and the program will convert it to Kelvin and print it.*/
+/* Write a program in the C program to convert Celsius to Kelvin. Ask the user to enter the desired temperature in Celsius, and the program will convert it to kelvin and print it*/
 
 #include<stdio.h>
 int main()
