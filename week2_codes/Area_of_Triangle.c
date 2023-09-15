@@ -1,4 +1,4 @@
-/* Write program in C program to find the area of a Triangle. The programming prints the area.  To compute it, you need to ask the user to enter the radius.*/
+/* Write a program in C to find the area of a Triangle. The programming prints the area.  To compute it, you need to ask the user to enter the base and height.*/
 
 #include<stdio.h>
 void main()
