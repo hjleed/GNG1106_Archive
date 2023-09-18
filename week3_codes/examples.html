@@ -1,0 +1,232 @@
+<p>In C programming, the printf() function is used to output values to the console. The function uses format specifiers to determine the type of data that is being output. The % format specifiers are used to format the output and can be used with various flags and modifiers to achieve different effects.</p>
+
+<h2 id="step2">Types of Format Specifiers:</h2>
+
+<p>There are several types of format specifiers in C programming, including:</p>
+
+<ul>
+	<li>%d: prints a signed integer</li>
+	<li>%u: prints an unsigned integer</li>
+	<li>%f: prints a floating-point number</li>
+	<li>%c: prints a character</li>
+	<li>%s: prints a string</li>
+	<li>%p: prints a pointer</li>
+	<li>%x: prints a hexadecimal value</li>
+	<li>%o: prints an octal value</li>
+</ul>
+
+<h2 id="step3">Using the % Format Specifiers with printf():</h2>
+
+<p>The % format specifiers are used in conjunction with the printf() function to format the output. Here are some examples of how to use the % format specifiers with the printf() function:</p>
+
+<h2 id="step4">Example 1: Printing a signed integer</h2>
+
+<pre>
+int num = -123;
+printf(&quot;The value of num is %d&quot;, num);
+</pre>
+
+<p>Output:</p>
+
+<pre>
+The value of num is -123</pre>
+
+<h2 id="step5">Example 2: Printing an unsigned integer</h2>
+
+<pre>
+unsigned int num = 123;
+printf(&quot;The value of num is %u&quot;, num);
+</pre>
+
+<p>Output:</p>
+
+<pre>
+The value of num is 123
+</pre>
+
+<h2 id="step6">Example 3: Printing a floating-point number with precision</h2>
+
+<pre>
+float num = 3.14159;
+printf(&quot;The value of num with 2 decimal places is %.2f&quot;, num);
+</pre>
+
+<p>Output:</p>
+
+<pre>
+The value of num with 2 decimal places is 3.14
+</pre>
+
+<h2 id="step7">Example 4: Printing a character</h2>
+
+<pre>
+char ch = &#39;A&#39;;
+printf(&quot;The character is %c&quot;, ch);
+</pre>
+
+<p>Output:</p>
+
+<pre>
+The character is A
+</pre>
+
+<h2 id="step8">Example 5: Printing a string</h2>
+
+<pre>
+char str[] = &quot;Hello, world!&quot;;
+printf(&quot;The string is %s&quot;, str);
+</pre>
+
+<p>Output:</p>
+
+<pre>
+The string is Hello, world!</pre>
+
+<h2 id="step9">Example 6: Printing floating-point number with precision %.2f</h2>
+
+<pre>
+ float a = 3.122222223;
+printf(&ldquo;a = <strong>%.2f</strong> &rdquo;, a);
+</pre>
+
+<p>Output:</p>
+
+<pre>
+a = 3.12</pre>
+
+<h2 id="step10">Example 7: Printing floating-point number with precision %.3f</h2>
+
+<pre>
+ float a = 3.122222223;
+printf(&ldquo;a = %.3f &rdquo;, a);</pre>
+
+<p>Output:</p>
+
+<pre>
+a = 3.122</pre>
+
+<p><strong>%.3f</strong> will restrict the values upto three decimal values.</p>
+
+<h2 id="step11">Example 8: Printing floating-point number with precision %6.2f</h2>
+
+<pre>
+ float a = 1.289999;
+printf(&ldquo; a = <strong>%6.2f</strong> &rdquo;, a);
+</pre>
+
+<p>Output:</p>
+
+<pre>
+_ _1.29</pre>
+
+<p>where _ _ are spaces</p>
+
+<p><strong>%6.2f :-</strong> means output will be in 6 columns</p>
+
+<h2 id="step12">Example 9: Printing floating-point number with precision %6.2f</h2>
+
+<p>a = 1.28999;</p>
+
+<p>While printing float values using %6.2f format specifier, the final output should be of length 6. As 6.2f indicates, the total length of output should be 6 and 2 values after &quot;.&quot; The rest part is covered with spaces. As you can see in the output image below, 2 decimal values after dot and before that we need three more values so that total length becomes 6.</p>
+
+<p><img src="../images/C/Screen Shot 2017-10-08 at 3.52.05 PM.png" /></p>
+
+<h2 id="step13">Example 10: Printing floating-point number with precision %5.3f</h2>
+
+<pre>
+    float a = 1.289999;
+    printf(&ldquo; a = <strong>%5.3f</strong> &rdquo;, a);
+    </pre>
+
+<p>Output:&nbsp;<img src="../images/C/Screen Shot 2017-10-08 at 3.00.55 PM.png" /></p>
+
+<p>In this case, the final output length should be of length 5 and 3 decimal values after &quot;.&quot; dot&nbsp;and 2 values before &quot;.&quot; dot</p>
+
+<h2 id="step14">Example 11: Printing floating-point number with precision %5.2f</h2>
+
+<pre>
+float a = 1.289999;
+printf(&ldquo; a = %5.2f &rdquo;, a);</pre>
+
+<h2>Output:</h2>
+
+<p><img src="../images/C/Screen Shot 2017-10-08 at 3.01.15 PM.png" /></p>
+
+<p>In this case, the final output length should be of length 5 and 2 decimal values after &quot;.&quot; dot and 3 values before &quot;.&quot; dot</p>
+
+<h2 id="step15">Example 12: Printing floating-point number with precision %5.3f</h2>
+
+<pre>
+    float a = 1111.289999;
+    printf(&ldquo; a = %5.3f &rdquo;, a);</pre>
+
+<p>Output:</p>
+
+<p>a = 1111.290</p>
+
+<p>In this case, before dot it contains enough digits than 5 so it will store 1111 in one block and rest in another.</p>
+
+<p>Space will only be added when there are not enough digits.</p>
+
+<h2 id="step16"><strong>Quick Recap:</strong></h2>
+
+<p>Question</p>
+
+<pre>
+printf(&ldquo; %5.2f &ldquo;, a);</pre>
+
+<p>Answer</p>
+
+<pre>
+    If a is 1111.2344444, it prints 1111.23
+    If a is 11.2344444, it prints 11.23
+    If a is 1.2344444 , it prints _1.234 ,
+    where _ is one leading whitespace character.</pre>
+
+<h2 >Integer Output Format</h2>
+
+<p><strong>Example 1:</strong></p>
+
+<pre>
+int a = 1234;
+printf(&ldquo;a = %3d&rdquo;, a);</pre>
+
+<p>Output:</p>
+
+<pre>
+a = 1234</pre>
+
+<p><strong>Example 2:</strong></p>
+
+<pre>
+int a = 123;
+printf(&ldquo;a = %3d&rdquo;, a);</pre>
+
+<p>Output:</p>
+
+<pre>
+a = 123</pre>
+
+<p><strong>Example 3:</strong></p>
+
+<pre>
+int a = 12;
+printf(&ldquo;a = %3d&rdquo;, a); </pre>
+
+<p>Output:</p>
+
+<pre>
+a = _12
+where, _ is space</pre>
+
+<p><strong>Example 4:</strong></p>
+
+<pre>
+int a = 1;
+printf(&ldquo;a = %3d&rdquo;, a);</pre>
+
+<p>Output:</p>
+
+<pre>
+ a = _ _1
+where, _ are spaces.</pre>
