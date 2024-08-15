@@ -56,27 +56,18 @@ Anterequisites: The courses GNG1106, ITI1120, ITI1220, CSI1301, CSI1306, CSI1303
 
 <!---- Another Section ----------------------------------------->
 
-<!---- Another Section ----------------------------------------->
-<h2><hr><a name="Textbook">Text Book: Modern C for Absolute Beginners:</a></h2>
+## Text Book: Modern C for Absolute Beginners:
 
-            		
-			<a href="https://proxy-ca.hosted.exlibrisgroup.com/exl_rewrite/syndetics.com/index.php?client=primo&isbn=9781484266434/sc.jpg">  
-			<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQybOHU1xMPtXduTR51esPbtO8KNqyZA18I68kqJiwO_0yhOXut" 
-			alt="Signals and Systems, 2e" border="1.5" hspace="20" width="100" align="left"> <a> 
-			<p> A Friendly Introduction to the C Programming Language</p>
-		
-			<p>Author: Dmitrovic´, Slobodan</p>
+<hr>
 
-				<p>	<i>&copy;2021</i>
-					<i><span class="delimiter">|</span>Apress</i>
-					<i><p></p>
-						<span class="delimiter">|</span>
-						<i>https://doi.org/10.1007/978-1-4842-6643-4.</i>
+A Friendly Introduction to the C Programming Language
 
-<p style="text-indent: 3em;"> <a href="https://link-springer-com.proxy.bib.uottawa.ca/book/10.1007/978-1-4842-6643-4">(UOttawa Library eBook)</a> </p> 
+Author: Dmitrovic´, Slobodan
+Copyright: ©2021
+Publisher: Apress | DOI: https://doi.org/10.1007/978-1-4842-6643-4
+UOttawa Library eBook: https://link-springer-com.proxy.bib.uottawa.ca/book/10.1007/978-1-4842-6643-4
 
-		
-
+<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQybOHU1xMPtXduTR51esPbtO8KNqyZA18I68kqJiwO_0yhOXut" width="100" height="150" alt="Resized Image">
 <!---- Another Section ----------------------------------------->
 <hr><h2><a name="Module1">Module 1</a></h2>
 
