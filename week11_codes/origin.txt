@@ -1,0 +1,4 @@
+Rectangle 1: Length = 2, Width = 5, Area = 10, Perimeter = 14
+Rectangle 2: Length = 3, Width = 4, Area = 12, Perimeter = 14
+Rectangle 3: Length = 1, Width = 8, Area = 8, Perimeter = 18
+Rectangle 4: Length = 4, Width = 3, Area = 12, Perimeter = 14
