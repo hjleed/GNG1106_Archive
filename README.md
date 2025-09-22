@@ -51,17 +51,6 @@ Course Component: Lecture, Labs .<br><br>
 Anterequisites: The courses GNG1106, ITI1120, ITI1220, CSI1301, CSI1306, CSI1303, CSI1308, CSI1390 cannot be combined for units.
 
 
-<br><br>
-
-
-        <ul>
-            <li><strong>Instructor: </strong> Hitham Jleed, Ph,D    &nbsp;&nbsp;&nbsp <strong>    (</strong>  <span style="color:#C88141"> hjleed@uottawa.ca</span>)</li>
-			<li><strong>TA1: </strong> Asmaa Hailane &nbsp;&nbsp;&nbsp <strong>    </strong>  <span style="color:#C88141">(ahail055@uottawa.ca)  </span</li>
-			<li><strong>TA2: </strong> Harry Wu &nbsp;&nbsp;&nbsp <strong>    </strong>  <span style="color:#C88141">(hwu149@uottawa.ca)   </span</li>
-			<li><strong>TA3: </strong> Yuning Xia &nbsp;&nbsp;&nbsp <strong>    </strong>  <span style="color:#C88141">(yxia035@uottawa.ca)  </span</li>
-			<li><strong>Corrector: </strong> Samhita Kuili &nbsp;&nbsp;&nbsp <strong>    (</strong>  <span style="color:#C88141">(skuil016@uottawa.ca)  </span</li>
-        </ul>
-<br><br>
 
 <!---- Another Section ----------------------------------------->
 
