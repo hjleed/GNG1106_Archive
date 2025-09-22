@@ -78,15 +78,15 @@ Anterequisites: The courses GNG1106, ITI1120, ITI1220, CSI1301, CSI1306, CSI1303
   <li>Labs: <span style="color:blue;">20% </span> (weekly; there are in total 10 labs)</li>
       <ul>
       <li>A1: 2.0% &ensp; <span style="color:red;">due week2  (8~13)/9/2025</span> </li>
-      <li>A2: 1.5% &ensp; <span style="color:red;">due week3</span>&ensp;&ensp;  PL2:  0.5% &ensp; <span style="color:red;">due Mon Sept. 15 at 8am</span></li>
-      <li>A3: 1.5% &ensp; <span style="color:red;">due week4</span>&ensp;&ensp; &ensp;    PL3:  0.5% &ensp; <span style="color:red;">Due Mon Sept. 22 at 8am</span></li>
-      <li>A4: 1.5% &ensp; <span style="color:red;">due week5</span>&ensp;&ensp;   PL4:  0.5% &ensp; <span style="color:red;"> due Mon Sept. 29 at 8am</span></li>
-      <li>A5: 1.5% &ensp; <span style="color:red;">due week6</span>&ensp;&ensp;   PL5:  0.5% &ensp; <span style="color:red;"> due Mon Oct 6 at 8am</span></li>
-      <li>A6: 1.5% &ensp; <span style="color:red;">due week9</span>&ensp;&ensp;     PL6:  0.5% &ensp; <span style="color:red;">   due Mon Oct 27 at 8am</span></li>
-	  <li>A7: 1.5% &ensp; <span style="color:red;">due week10</span>&ensp;&ensp;  PL7:  0.5% &ensp; <span style="color:red;">due Mon Nov 3 at 8am</span></li>
-      <li>A8: 1.5% &ensp; <span style="color:red;">due week11</span>&ensp;&ensp;     PL8:  0.5% &ensp; <span style="color:red;">   due Mon Nov 10 at 8am</span></li>
-      <li>A9: 1.5% &ensp; <span style="color:red;">due week12</span>&ensp;&ensp;   PL9:  0.5% &ensp; <span style="color:red;"> due Mon Nov 17 at 8am</span></li>
-      <li>A10: 1.5% &ensp; <span style="color:red;">due week13</span>&ensp;&ensp;  PL10:  0.5% &ensp; <span style="color:red;">due Mon Nov 24 at 8am</span></li>
+      <li>A2: 1.5% &ensp; <span style="color:red;">due week3</span>&ensp;&ensp;  PL2:  0.5% &ensp; </li>
+      <li>A3: 1.5% &ensp; <span style="color:red;">due week4</span>&ensp;&ensp; &ensp;    PL3:  0.5% &ensp;</li>
+      <li>A4: 1.5% &ensp; <span style="color:red;">due week5</span>&ensp;&ensp;   PL4:  0.5% &ensp; </li>
+      <li>A5: 1.5% &ensp; <span style="color:red;">due week6</span>&ensp;&ensp;   PL5:  0.5% &ensp; </li>
+      <li>A6: 1.5% &ensp; <span style="color:red;">due week9</span>&ensp;&ensp;     PL6:  0.5% &ensp; </li>
+	  <li>A7: 1.5% &ensp; <span style="color:red;">due week10</span>&ensp;&ensp;  PL7:  0.5% &ensp; </li>
+      <li>A8: 1.5% &ensp; <span style="color:red;">due week11</span>&ensp;&ensp;     PL8:  0.5% &ensp; </li>
+      <li>A9: 1.5% &ensp; <span style="color:red;">due week12</span>&ensp;&ensp;   PL9:  0.5% &ensp; </li>
+      <li>A10: 1.5% &ensp; <span style="color:red;">due week13</span>&ensp;&ensp;  PL10:  0.5% &ensp;</li>
     </ul>
   <li>Practices: <span style="color:blue;">0% </span> (Not to be graded)</li>
   
