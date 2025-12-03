@@ -20,7 +20,7 @@ alt="C Programming Animation" border="1.5" hspace="20" width="250"></a><br>
 </td></tr></tbody></table>
 
 <h1 align="center">GNG 1106 Fundamentals of Engineering Computation (3 units)
-(Fall 2025)</h1>
+</h1>
 
 <h3 align="center">
  by  <a href= "https://uniweb.uottawa.ca/members/361">Hitham Jleed</a>
@@ -52,22 +52,7 @@ Anterequisites: The courses GNG1106, ITI1120, ITI1220, CSI1301, CSI1306, CSI1303
 
 
 
-<!---- Another Section ----------------------------------------->
 
-<!---- Another Section ----------------------------------------->
-<h2><hr><a name="Textbook">Textbook, Laptop, Software and Platforms  </a></h2>
-
-        <ul>
-			<li> <strong>Textbook:</strong>   There is no official textbook. The students are encouraged to consult free online resources about C programming.</li>
-
-			<li>  <strong> Laptop:</strong>  each student must have your own laptop and bring it to the lecture.  </li>
-			<li> <strong> Exercises:</strong>  You will have In-Class and lab Exercises (see Grading),in addition to Assignments.   </li>
-			<li>  <strong> Brightspace:</strong>  will be used as the main teaching platform.   </li>
-			<li>  <strong> IDE:</strong>  see Section “Programming Environment” later.  </li>
-        </ul>
-<br><br>
-
-<!---- Another Section ----------------------------------------->
 <hr><h2><a name="Evaluation">Evaluation</a></h2>
 
 <ul>
@@ -110,7 +95,7 @@ Anterequisites: The courses GNG1106, ITI1120, ITI1220, CSI1301, CSI1306, CSI1303
 <br>
 
 </th></tr><tr valign="top">
-<td bgcolor="#ffffdd"> Week1 (2/9)
+<td bgcolor="#ffffdd"> Week1 
 </td><td bgcolor="#ffffdd">Syllabus, Logistics, Organization
 </td><td bgcolor="#ffffdd"> On Brightspace
 </td><td bgcolor="#ffffdd">No Lab
@@ -118,52 +103,52 @@ Anterequisites: The courses GNG1106, ITI1120, ITI1220, CSI1301, CSI1306, CSI1303
 <br>
  
  </th></tr><tr valign="top">
-<td bgcolor="#ffffdd"> Week2 (8/9)
+<td bgcolor="#ffffdd"> Week2 
 </td><td bgcolor="#ffffdd">Computing Basics, Standard IO, Variables, Slight Arithmetics
 </td><td bgcolor="#ffffdd">On Brightspace
 </td><td bgcolor="#ffffdd">Lab1
 </td><td bgcolor="#ffffdd"><a href="https://learn-c.org/en/Variables_and_Types">(Practice2)</a> <br> create a program which prints out the sum of the numbers a, b, and c.
 <br>
 </th></tr><tr valign="top">
-<td bgcolor="#ffffdd"> Week3 (15/9)
+<td bgcolor="#ffffdd"> Week3
 </td><td bgcolor="#ffffdd">Types, Arithmetic/Logical Operations; Math Library; Decision Structure
 </td><td bgcolor="#ffffdd">On Brightspace
 </td><td bgcolor="#ffffdd">Lab2
 </td><td bgcolor="#ffffdd"><a href="https://www.wscubetech.com/resources/c-programming/math-functions">(Practice3)</a> <br>  Rounds a number down to the nearest integer.
 <br>
 </th></tr><tr valign="top">
-<td bgcolor="#ffffdd"> Week4 (22/9)
+<td bgcolor="#ffffdd"> Week4 
 </td><td bgcolor="#ffffdd">Loops
 </td><td bgcolor="#ffffdd">On Brightspace
 </td><td bgcolor="#ffffdd">Lab3
 </td><td bgcolor="#ffffdd"><a href="https://www.geeksforgeeks.org/quizzes/loops-control-structure-gq/">(Practice4)</a> <br> Self-quiz about loops
 </th></tr><tr valign="top">
-<td bgcolor="#ffffdd"> Week5 (29/9)
+<td bgcolor="#ffffdd"> Week5
 </td><td bgcolor="#ffffdd">Programming Loops (the notion of state); Computing the sum of a infinite series; Functions
 </td><td bgcolor="#ffffdd">On Brightspace
 </td><td bgcolor="#ffffdd">Lab4
 </td><td bgcolor="#ffffdd"><a href="https://www.w3resource.com/c-programming-exercises/for-loop/c-for-loop-exercises-18.php#google_vignette">(Practice5)</a> <br> Sum of Series
 <br>
 </th></tr><tr valign="top">
-<td bgcolor="#ffffdd"> Week6 (6/10)
+<td bgcolor="#ffffdd"> Week6
 </td><td bgcolor="#ffffdd">Functions; Programming Model
 </td><td bgcolor="#ffffdd">On Brightspace
 </td><td bgcolor="#ffffdd">Lab5
 </td><td bgcolor="#ffffdd"><a href="https://www.w3resource.com/c-programming-exercises/for-loop/c-for-loop-exercises-18.php">(Practice6)</a> Write a program in C to find the sum of the series [ 1-X^2/2!+X^4/4!- .........].
 <br>
 </th></tr><tr valign="top">
-<td bgcolor="#ddeeff"> Week7 (13/10)
+<td bgcolor="#ddeeff"> Week7 
 </td><td bgcolor="#ddeeff" colspan="4"> Reading Week   (October 12 to 18)
 
 </th></tr><tr valign="top">
-<td bgcolor="#ffffdd"> Week8 (20/10)
+<td bgcolor="#ffffdd"> Week8 
 </td><td bgcolor="#ffffdd">Array, Array as function input; Search, Pointer
 </td><td bgcolor="#ffffdd">On Brightspace
 </td><td bgcolor="#ffffdd">No lab
 </td><td bgcolor="#ffffdd">Midterm 
 <br>
 </th></tr><tr valign="top">
-<td bgcolor="#ffffdd"> Week9 (27/10)
+<td bgcolor="#ffffdd"> Week9 
 </td><td bgcolor="#ffffdd">Pointer; Array/pointer as function input
 </td><td bgcolor="#ffffdd">On Brightspace
 </td><td bgcolor="#ffffdd">Lab6
@@ -171,35 +156,35 @@ Anterequisites: The courses GNG1106, ITI1120, ITI1220, CSI1301, CSI1306, CSI1303
 Swapping two values using pointers and functions
 <br>
 </th></tr><tr valign="top">
-<td bgcolor="#ffffdd"> Week10 (3/11)
+<td bgcolor="#ffffdd"> Week10 
 </td><td bgcolor="#ffffdd">Structure; Sort numbers ad objects
 </td><td bgcolor="#ffffdd">On Brightspace
 </td><td bgcolor="#ffffdd">Lab7
 </td><td bgcolor="#ffffdd"><a href="https://www.w3resource.com/c-programming/c-structures.php">(Practice8)</a>use typedef with the Student structure to create an alias Student.
 <br>
 </th></tr><tr valign="top">
-<td bgcolor="#ffffdd"> Week11 (10/11)
+<td bgcolor="#ffffdd"> Week11 
 </td><td bgcolor="#ffffdd">Dynamically Allocated Memory *; Char and String; File IO ASCII; 
 </td><td bgcolor="#ffffdd">On Brightspace
 </td><td bgcolor="#ffffdd">Lab8
 </td><td bgcolor="#ffffdd"><a href="https://www.geeksforgeeks.org/c/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/">(Practice8)</a>check for malloc failure by comparing the ptr to NULL
 <br>
 </th></tr><tr valign="top">
-<td bgcolor="#ffffdd"> Week12 (17/11)
+<td bgcolor="#ffffdd"> Week12 
 </td><td bgcolor="#ffffdd">Plot; Software Development; Root Finding; Euler's Method; Trapezoidal Rule; Recursion; 
 </td><td bgcolor="#ffffdd">On Brightspace
 </td><td bgcolor="#ffffdd">Lab9
 </td><td bgcolor="#ffffdd"><a href="https://www.programiz.com/c-programming/c-recursion">(Practice9)</a> Sum of Natural Numbers Using Recursion
 <br>
 </th></tr><tr valign="top">
-<td bgcolor="#ffffdd"> Week13 (24/11)
+<td bgcolor="#ffffdd"> Week13
 </td><td bgcolor="#ffffdd">File IO Binary; Pointer to Pointer*; Static Variables*; Cast*;  
 </td><td bgcolor="#ffffdd">On Brightspace
 </td><td bgcolor="#ffffdd">Lab10
 </td><td bgcolor="#ffffdd"><a href="https://www.geeksforgeeks.org/c/c-file-io/">(Practice10)</a> Writing to a text file in C
 <br>
 </th></tr><tr valign="top">
-<td bgcolor="#ffffdd"> Week14 (1/12)
+<td bgcolor="#ffffdd"> Week14
 </td><td bgcolor="#ffffdd"> Course Summary
 </td><td bgcolor="#ffffdd">
 </td><td bgcolor="#ffffdd">No Lab
